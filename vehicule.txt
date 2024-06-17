@@ -1,0 +1,21 @@
+
+Tip Motor: Honda
+Viteza maxima: 260 km/h
+Pret [M]: 9500
+----------
+Marca: BMW
+An Fabricatie: 2012
+Capacitate motor: 4
+Pret [A]: 12500
+----------
+Marca: BMW
+An Fabricatie: 2012
+Capacitate motor: 4.5
+Pret [A]: 12000
+Tip Motor: I33
+Viteza maxima: 260 km/h
+Pret [M]: 9000
+Numar roti: 4
+Dotari suplimentare: e frumoasa masina mea rosie
+Pret Total: 21000
+----------
